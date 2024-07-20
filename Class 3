@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!--Father-->
+<html lang="en">
+<head>
+    <!--Daugther-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Hello You</h1>
+
+    </header>
+    <main>
+        <article>
+
+        </article>
+        <sections>
+            <h2>Hello You 2.0</h2>
+            <p>
+                You should know that I'm doing a big project that will help the whole world.   
+            </p>
+            <p>This text<b> is in bold</b>, <i> cursive</i> and for <u> underlined. </u> So, for <mark> highligthing</mark>. For <small> making the text small.</small>. I'm done, so another paragraph is about to begin.</p>
+            <p>For <del>deleted text.</del></p>
+            <h2>Vision</h2>
+            <p>This text<b> is in bold</b>, <i> cursive</i> and for <u> underlined. </u> So, for <mark> highligthing</mark>. For <small> making the text small.</small>. I'm done, so another paragraph is about to begin.</p>
+            <p>For <del>deleted text.</del></p>
+            <h2>Mission </h2>
+            <h2>Objectives</h2>
+            <h3>General objective</h3>
+                <ul>
+                    <li>First element</li>
+                </ul>
+                <ol>
+                    <li>Ordered element</li>
+                </ol>
+            <h3>Specific objectives</h3>
+        </sections>
+        <section>
+            <h2>Unknown Animals</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Age</th>
+                        <th>Country</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Nicol</td>
+                        <td>21</td>
+                        <td>Bolivia</td>
+                    </tr>  
+                    <tr>
+                        <td>Hawking</td>
+                        <td>Dead</td>
+                        <td>US</td>
+                    </tr>  
+                </tbody>
+            </table>
+        </section>
+        <section>
+            <main>
+                <img src="https://th.bing.com/th/id/OIP.MEd2o5wCP5rOMbYxAoC9XAAAAA?rs=1&pid=ImgDetMain"
+                alt="It's an onigiri"/> <!--it's an attribute-->
+                <!--What is this image is deleted-->
+                <img src="./images/hormigas-culonas, Colombia.jpg" alt="Culonas ants"/>    
+                <!--pene de tigre food, ahh-->
+                <img src="https://media1.tenor.com/images/3f0b1eecd6f85660c75b834c7cea6537/tenor.gif?itemid=3483870" alt="Hatsune Miku"/>
+            </main>
+        </section>
+    </main>
+    <aside>
+
+    </aside>
+    <footer>
+
+    </footer>
+</body>
+</html>
