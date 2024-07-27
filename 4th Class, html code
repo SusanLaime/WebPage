@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <h2>Programming girls</h2>
+    <!--All h2 will have this style-->
+    <p class="text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit eius perspiciatis, consequuntur
+        quisquam praesentium qui repellendus magni esse quia quasi atque maiores commodi quidem vero iusto unde soluta
+        amet! Quo.</p>
+    <p class="text">Programming</p>
+    <h2 id="Unique">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur autem eveniet optio, vero cum
+        nemo quo nesciunt rerum provident necessitatibus. Placeat nam itaque hic dolor eum voluptas maiores rerum amet!
+    </h2>
+    <div id="Sticky_content"></div>
+    <div id="box">
+        Content
+    </div>
+    <div id="Second_content"></div>
+    <div id="Father">
+        Father
+    </div>
+    
+
+</body>
+
+</html>
