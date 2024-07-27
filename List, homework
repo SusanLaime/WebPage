@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<!--Father-->
+<html lang="en">
+<head>
+    <!--Daugther-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Homeworks --Instruments and Artists--</h1>
 
+            <p>Here is the list of instruments and artists <b> I like and would like to know more about</b>
+            <h3><u>Susan Laime</u> </h3>
+            <h3>Instruments I like:</h3>
+            <ul>
+                <li>Harmonica</li>
+                <img src= "https://rukminim2.flixcart.com/image/850/1000/xif0q/harmonica/y/z/l/king-dream-chromatic-harmonica-key-of-c-12-holes-48-tones-original-imagptuuyqavkdja.jpeg?q=90&crop=false" alt="Harmonica"/>
+                <li>Cello</li>
+                <img src="https://townsquare.media/site/295/files/2023/06/attachment-wednesday.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"alt="Cello"/>
+                <li>Clarinet</li>
+                <img src="https://external-preview.redd.it/VImlyvbPO8MUA93PNbY2GQbZHfJTyMqijwkSlyh6yuM.jpg?auto=webp&s=90a0b4e7bea1df7eae1860612892725485279392"alt="Clarinet"/>
+                <li>Western Concert FLute</li>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKKggwzyZdLqmgfX3MqHZcGMDSpDjlpSrOQ&s"alt="Flute"/>
+                <li>Saxophone</li>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaoe_yUztsBJL7zYHJk5Ab_81xLigDfLF3NA&s"alt="Saxophone"/>
+            </ul>
+            <h3>Artists/ Djs I like:</h3>
+            <ol>
+                <li>Alan Walker</li>
+                <li>Kygo</li>
+                <li>Avicii</li>
+                <li>Robin Schulz</li>
+                <li>KSHMR</li>
+            </ol>
+            
+        </sections>
+</html>
