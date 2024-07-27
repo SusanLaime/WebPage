@@ -1,0 +1,68 @@
+h2 {
+    color: blueviolet;
+    color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text {
+    font-size: large;
+    color: blue;
+}
+
+#Unique {
+    /* id works with #*/
+    color: blueviolet;
+    font-weight: 0;
+}
+
+body {
+    background-color: black;
+}
+#box{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin:50px 1px 2px 3px;
+    background-color: azure;
+    padding:100px 5px 10px 15px;
+    border: 7px aqua double;
+    border-radius: 70px;
+}
+#Second_content{
+    position:fixed;
+    left:0px;
+    right: 0px;
+    width: 100px;
+    height: 0px;
+    top:20px;
+    bottom: 0px;
+    margin:50px 1px 2px 3px;
+    background-color: azure;
+    padding:100px 5px 10px 15px;
+    border: 7px aquamarine double;
+    border-radius: 70px;
+}
+#Sticky_content {
+    position: sticky;
+    z-index: 1;
+    right: 50px;
+    width: 50px;
+    height: 50px;
+    top: 20px;
+    margin: 50px 1px 2px 3px;
+    background-color: blue;
+    padding: 100px 5px 10px 15px;
+    border: 7px blueviolet double;
+    border-radius: 70px;
+}
+
+#Father{ 
+    /*position: relative;*/
+    width: 500px;
+    height: 500px;
+    margin:50px 1px 2px 3px;
+    background-color: azure;
+    padding:100px 5px 10px 15px;
+    border: 7px aquamarine double;
+    border-radius: 70px;
+}
