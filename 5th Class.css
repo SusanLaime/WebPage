@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Noto+Sans+JP:wght@100..900&display=swap');
+html{
+    /*font-family: "Kalnia Glaze", serif;*/
+    /*To add an png image, you have to ""copy th image from the internet, and then paste it on the folder in vs code*/
+    font-family: "Noto Sans JP", sans-serif;
+}
+body{
+    height: 100%;
+    width: 100%;
+    /*svg easy to modify.*/
+    background-image: url(capibara.png);
+    background-size: cover;
+}
+.text1{
+    color:violet ;
+}
+.capibara{
+    background-image: url(capibara.png);
+    height: 500px;
+    width: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*contain uses it differently*/
+}
