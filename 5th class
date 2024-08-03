@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="sample.css">
+</head>
+<body>
+
+    <p class="text1">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse officiis placeat dolore, qui quidem dicta officia adipisci non dolores, temporibus modi voluptatem? Optio excepturi adipisci placeat sint magni iste necessitatibus!
+        It's supposed to be in Japanese.</p>
+    <div class="capibara">
+        <!--It is used to divide sections-->
+        <!--Java Script for html-->
+    </div>
+</body>
